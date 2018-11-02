@@ -1,0 +1,10 @@
+﻿  prog1_3.cpp
+d:\study\c++\chapter1\chapter1_3\chapter1_3\prog1_3.cpp(4): error C3872: “0x3002”: 此字符不允许在标识符中使用
+d:\study\c++\chapter1\chapter1_3\chapter1_3\prog1_3.cpp(4): error C2065: “不能嵌套。”: 未声明的标识符
+d:\study\c++\chapter1\chapter1_3\chapter1_3\prog1_3.cpp(5): error C3873: “0x201c”: 不允许将此字符作为标识符的第一个字符
+d:\study\c++\chapter1\chapter1_3\chapter1_3\prog1_3.cpp(5): error C3872: “0x201d”: 此字符不允许在标识符中使用
+d:\study\c++\chapter1\chapter1_3\chapter1_3\prog1_3.cpp(5): error C2065: ““不能嵌套”几个字会被认为是源码，”: 未声明的标识符
+d:\study\c++\chapter1\chapter1_3\chapter1_3\prog1_3.cpp(6): error C3872: “0x3002”: 此字符不允许在标识符中使用
+d:\study\c++\chapter1\chapter1_3\chapter1_3\prog1_3.cpp(7): warning C4138: 在注释外找到“*/”
+d:\study\c++\chapter1\chapter1_3\chapter1_3\prog1_3.cpp(6): error C2065: “像生于程序一样处理。”: 未声明的标识符
+d:\study\c++\chapter1\chapter1_3\chapter1_3\prog1_3.cpp(7): error C2059: 语法错误:“/”
