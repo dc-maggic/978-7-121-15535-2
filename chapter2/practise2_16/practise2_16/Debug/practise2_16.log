@@ -1,0 +1,4 @@
+﻿  practise2_16.cpp
+d:\study\c++\chapter2\practise2_16\practise2_16\practise2_16.cpp(8): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\study\c++\chapter2\practise2_16\practise2_16\practise2_16.cpp(9): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  practise2_16.vcxproj -> D:\study\C++\chapter2\practise2_16\Debug\practise2_16.exe
