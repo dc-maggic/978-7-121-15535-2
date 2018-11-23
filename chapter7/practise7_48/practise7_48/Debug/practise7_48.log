@@ -1,0 +1,4 @@
+﻿  practise7_48.cpp
+d:\study\c++\chapter7\practise7_48\practise7_48\practise7_48.cpp(59): error C2664: “Sales_data &Sales_data::combine(const Sales_data &)”: 无法将参数 1 从“const char [14]”转换为“const Sales_data &”
+  d:\study\c++\chapter7\practise7_48\practise7_48\practise7_48.cpp(59): note: 原因如下: 无法从“const char [14]”转换为“const Sales_data”
+  d:\study\c++\chapter7\practise7_48\practise7_48\practise7_48.cpp(59): note: 无构造函数可以接受源类型，或构造函数重载决策不明确
