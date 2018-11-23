@@ -10,4 +10,25 @@ private:
 	double amount;
 	static double interestRate;
 	static double initRate();
+	static constexpr int period = 30;
+	double daily_tbl[period];
+};
+void Account::rate(double newRate)
+{
+	interestRate = newRate;
+}
+int main()
+{
+	double r;
+	r = Account::rate();
+	Account ac1;
+	Account *ac2 = &ac1;
+	r = ac1.rate();
+	r = ac2->rate();
+}
+class Screen {
+public:
+	Screen & clear(char = bkground);
+private:
+	static const char bkground;
 };
