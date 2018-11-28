@@ -1,0 +1,6 @@
+﻿  practise15_18.cpp
+d:\study\c++\chapter15\practise15_18\practise15_18\practise15_18.cpp(58): warning C4101: “d3”: 未引用的局部变量
+d:\study\c++\chapter15\practise15_18\practise15_18\practise15_18.cpp(64): warning C4101: “dd3”: 未引用的局部变量
+d:\study\c++\chapter15\practise15_18\practise15_18\practise15_18.cpp(62): warning C4101: “dd2”: 未引用的局部变量
+d:\study\c++\chapter15\practise15_18\practise15_18\practise15_18.cpp(56): warning C4101: “d2”: 未引用的局部变量
+  practise15_18.vcxproj -> D:\study\C++\chapter15\practise15_18\Debug\practise15_18.exe
