@@ -95,7 +95,7 @@ int main()
 	Derived_Base d(42);
 	std::cout << d.get_mem() << std::endl;
 	Quote *itemPoint = new Quote;
-	delete itemPoint;
+	delete itemPoint;//调用Quote的析构函数
 	system("pause");
 	return 0;
 }
