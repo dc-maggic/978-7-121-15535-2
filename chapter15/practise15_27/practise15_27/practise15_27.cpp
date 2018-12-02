@@ -44,7 +44,7 @@ public:
 		qty = eg.qty;
 		return *this;
 	}
-	double net_price(std::size_t) const = 0;
+	virtual double net_price(std::size_t) const = 0;
 	~Disc_quote() { std::cout << "Disc_quote's destructor." << std::endl; }
 protected:
 	std::size_t qty = 0; //折扣使用的购买量
@@ -60,9 +60,6 @@ public:
 		else
 			return n * price;
 	}
-protected:
-	double discount = 0.0;
-	std::size_t qty = 0;
 };
 int main()
 {
